@@ -13,4 +13,5 @@ This is the code for the AWS SSM Automation Document. While this is not the enti
 https://us-east-1.console.aws.amazon.com/systems-manager/documents/AWSSupport-TroubleshootAPIGatewayHttpErrors/description?region=us-east-1
 
 **Disclaimer:**  
-The code has been altered a bit after I
+This is the code I created while I was working in AWS, for the automation document (mentinoed above). 
+The code has been altered a bit after I left AWS (mostly it's the same, just breaking into modules, added a class for Error Pattern)
